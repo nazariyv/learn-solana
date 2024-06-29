@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-day_4_require_revert_custom_errors = "EmRmNn6Zsjq5SVzS1T1Zo5ykMNnzgFPywPTfKFXrkLPD"
+day_4 = "BaLsYBaMeQkZZ5CfKigcMn2b8ZzuS7EM1LzSvSNtNBFq"
 
 [registry]
 url = "https://api.apr.dev"
